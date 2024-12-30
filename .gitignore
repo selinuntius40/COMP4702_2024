@@ -2,3 +2,4 @@
 *.xlsx
 *.data
 /data
+*.mat
