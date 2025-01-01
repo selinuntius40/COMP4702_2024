@@ -3,3 +3,5 @@
 *.data
 /data
 *.mat
+/W12
+*.txt
